@@ -8,3 +8,4 @@
 taohengheng/taohengheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I am a Junior from JISHOU University,interested in computer vesion。My English is not well,I am preparing the CET-4.Before I join github,I had learned Opencv and bit of Tensorflow,I tried to built a net of my own.I will study hard in future. 
